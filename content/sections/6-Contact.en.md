@@ -1,7 +1,7 @@
 ---
 anchor: "Contact"
-header: "Let's Get In Touch!"
-subheader: "Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!"
-telephone: 03-0000-0001
+header: "Let us know if you want to know more!"
+subheader: "Send us a message if you'd like to know more and we'll add you to the mailing list!"
+telephone: 0431594074
 email: contact@yourwebsite.com
 ---

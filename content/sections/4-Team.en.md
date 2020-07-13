@@ -1,13 +1,13 @@
 ---
 anchor: "Team"
-header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+header: "The Team"
+subheader: "Two strong and counting..."
+content: "We are building out team. Please reach out if you would like to join us."
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Adam Mlocek",
+    subheader: "Chief Scientist and CTO",
     social: {
       twitter: "#",
       facebook: "#",
@@ -16,8 +16,8 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Avi Michael",
+    subheader: "Business and Front-end Development",
     social: {
       twitter: "#",
       facebook: "#",
@@ -26,8 +26,8 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "?",
+    subheader: "Join Us",
     social: {
       twitter: "#",
       facebook: "#",

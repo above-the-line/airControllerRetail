@@ -1,6 +1,6 @@
 ---
 anchor: "Meet AirController"
-header: "Take Control"
+header: "Meet the Controllers"
 subheader: "Make your old AC smart"
 portfolios: [
   {
@@ -16,8 +16,8 @@ portfolios: [
     imageFileNameDetail: "portfolio/02-full.jpg",
     header: "Small Sensor",
     subheader: "Environmental sensing and control",
-    content: "AC running on hard power? No problem! This guy gets you connected to the AirController App which allows you to set your preferred temperature range, schedule of use and savings goals. Set it and forget it, our app will optimise for comfort and cost savings.",
-    extraInfo: ["Date of release: December 2020", "Price: AUD$25", "Includes: AirController Smartphone App"]
+    content: "AC running on hard power? No problem! This guy gets you connected to the AirController App and gives you access to the same optimisation for comfort and cost savings. Like it's big brother, it lets you set schedules. You can ",
+    extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
   }
 ]
 ---
