@@ -1,3 +1,16 @@
+## PROJECT STRUCTURE
+1. Top-index.jsx is the root or global parent component
+   that unifies all the react components and hooks.
+   It makes the main GQL query (pulls all data from the markdown folder)
+   (./content) then cleans it up with utility functions (doing regexp) 
+   and passes it to components as props
+2. The 
+
+
+
+
+
+
 ## INTRO
 
 Retail facing AirController Website
@@ -33,7 +46,7 @@ Uses i18n multi-lingual package
 
 - set defaultLang in `'config/site.js'`
 
-- add langTextMap to `'config/site.js'` (LanguageSelector won't display if langTextMap is not defined. Consider using [StaticQueryVersion](#note) if i18n is not necessary)
+- add langTextMap to `'config/site.js'` (LanguageSelector won't display if langTextMap is not defined.
 
 - copy markdown files in `'content'` folder, rename it to `xxxx.[langKey].md` and translate the contents
 

@@ -1,3 +1,18 @@
+// The GQL query returns all markdown documents from the content folder
+// ./content filtered by lanuage code and in ascending oder.
+// These "nodes" are then sent to the breakDownAllNodes.js utility
+// which parses the data and formats it into something more useable
+// 9 nodes => [0...8]
+// are returned as [ anchors: {}, footerNode: {}, navBarNode: {}, sectionsNodes, topNode]
+//
+// This is the mechanism for getting the data
+// from the markdown to the react components
+//
+//
+//
+//
+//
+
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";

@@ -1,3 +1,27 @@
+// Top-index.jsx passes the brand configuration
+// property that is set in NavBar.en.md as props (function argument)
+// (it's markdown text that is rendered in a fancy way by this component)
+// The Font Family is a variable specified by a SCSS mixin in ./src/style/corse.scss
+// and then that SCSS variable is actually applied to the React component below via
+// className "cursor-pointer" via Navbar.scss
+//
+//
+//
+//
+//
+// https://github.com/lukeed/clsx
+//
+// The clsx function can take any number of arguments, each of which can be an Object, Array, Boolean, or String.
+// Any falsey values are discarded!
+// Standalone Boolean values are discarded as well.
+//
+// clsx(true, false, '', null, undefined, 0, NaN);
+// => ''
+//
+// // Kitchen sink (with nesting)
+// clsx('foo', [1 && 'bar', { baz:false, bat:null }, ['hello', ['world']]], 'cya');
+// => 'foo bar hello world cya'
+
 import React from "react";
 import PropTypes from "prop-types";
 
