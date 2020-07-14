@@ -1,7 +1,7 @@
 ---
-anchor: "コンタクト"
-header: "連絡方法"
-subheader: "次のプロジェクトを私たちに任せていただけませんか？お電話またはメールでお問い合わせください。"
-telephone: 03-0000-0001
-email: contact@yourwebsite.com
+anchor: "Kontakt"
+header: "Lassen Sie uns wissen, wenn Sie mehr wissen möchten!"
+subheader: "Senden Sie uns eine Nachricht, wenn Sie mehr wissen möchten, und wir werden Sie zur Mailingliste hinzufügen!"
+telephone: 0431594074
+email: info@air-controller.com
 ---

@@ -1,34 +1,34 @@
 ---
-anchor: "沿革"
-header: "沿革"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+anchor: "How it works"
+header: "Wie es funktioniert"
+subheader: "und was es macht"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009年-2011年",
-    subheader: "Our Humble Beginnings",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "Wählen Sie Ihr Gerät",
+    subheader: "Sie arbeiten alleine / zusammen",
+    content: "Wenn Ihre Klimaanlage einen Stecker hat, kaufen Sie das Big Brain. Wenn nicht, besorgen Sie sich den Small Sensor. Der Small Sensor kann das große Gehirn empfindlicher für Temperaturänderungen machen."
   },
   {
     imageFileName: "about/2.jpg",
-    header: "2011年3月",
-    subheader: "An Agency is Born",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "Stellen Sie Ihre Komfortzone ein",
+    subheader: "dann lehnen Sie sich zurück und sparen Sie",
+    content: "Stellen Sie den zulässigen Temperaturbereich ein und wie viel Geld Sie sparen möchten. Und das ist es! Sie können mit der App so viel oder so wenig einchecken, wie Sie möchten. Sie erfahren, ob ein Problem vorliegt"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "2012年12月",
-    subheader: "Transition to Full Service",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "Optimieren!",
+    subheader: "Energie teuer? Kalt draußen?",
+    content: "Umgebungsdaten, Marktpreise, Ihr Standort, Sonnenlicht und Wolkendecke (falls mit einer Batterie- und Solarenergie verbunden) werden all diese Kennzahlen anhand Ihrer Ziele für Komfort und Einsparungen bewertet."
   },
   {
     imageFileName: "about/4.jpg",
-    header: "2014年7月",
-    subheader: "Phase Two Expansion",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "Setzen und vergessen",
+    subheader: "Es erledigt die Arbeit für Sie",
+    content: "Keine Fernbedienungen mehr, keine Sorge mehr um die schleichende Kälte. Air Controller denkt darüber nach, was in Ihrem Zimmer und auf der Welt passiert, und trifft Entscheidungen, die Ihren Komfort verbessern und Energie sparen."
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "Sei Teil\r\nunserer\r\nGeschichte!"
   }
 ]
 ---

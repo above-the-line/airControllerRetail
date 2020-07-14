@@ -7,17 +7,17 @@ portfolios: [
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "Big Brain",
-    subheader: "Smart metering and control",
-    content: "This guy makes your old AC smart! Plug the AC power cable into our controller, set your temperature comfort zone and how much money you want to save on the app and just forget about it. AirController will: keep the AC off as much as possible and make smart choices depending on ambient temperature, market energy prices and the preferences you set.",
-    extraInfo: ["Date of release: December 2020", "Price: AUD$40", "Includes: AirController Smartphone App"]
+    subheader: "Intelligente Messung und Steuerung",
+    content: "Machen Sie Ihre alte Klimaanlage schlau! Stecken Sie das Netzkabel in unseren Controller, Stellen Sie in der App Ihre Temperaturkomfortzone ein und wie viel Geld Sie sparen möchten, und dann vergiss es einfach. AirController hält die Klimaanlage so weit wie möglich ausgeschaltet und trifft kluge Entscheidungen in Abhängigkeit von der Umgebungstemperatur, den Marktenergiepreisen und den von Ihnen festgelegten Einstellungen.",
+    extraInfo: ["Veröffentlichungsdatum: Dezember 2020", "Preis: AUD$40", "Beinhaltet: AirController Smartphone App"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/02-full.jpg",
+    imageFileName: "portfolio/03-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Small Sensor",
-    subheader: "Environmental sensing and control",
-    content: "AC running on hard power? No problem! This guy gets you connected to the AirController App and gives you access to the same optimisation for comfort and cost savings. Like it's big brother, it lets you set schedules. You can ",
-    extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
+    subheader: "Umgebungserfassung und -kontrolle",
+    content: "Wechselstrom läuft mit harter Energie? Kein Problem! Dieser Typ verbindet Sie mit der AirController-App, mit der Sie Ihren bevorzugten Temperaturbereich, Nutzungsplan und Einsparungsziele festlegen können. Stellen Sie es ein und vergessen Sie es. Unsere App optimiert den Komfort und die Kosteneinsparungen",
+    extraInfo: ["Veröffentlichungsdatum: Dezember 2020", "Preis: AUD$40", "Beinhaltet: AirController Smartphone App"]
   }
 ]
 ---

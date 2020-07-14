@@ -1,5 +1,5 @@
 module.exports = {
-  title: "AirController Retail Website",
+  title: "Make your old AC smart",
   keywords: [
     "IOT",
     "Air Conditioning",

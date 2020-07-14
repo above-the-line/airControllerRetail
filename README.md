@@ -4,7 +4,9 @@
    It makes the main GQL query (pulls all data from the markdown folder)
    (./content) then cleans it up with utility functions (doing regexp) 
    and passes it to components as props
-2. The 
+2. The ImageCard is welcome splash screen at the top
+   of the page.
+3. Turn sections on or off in the index.js panel of the sections tab
 
 
 

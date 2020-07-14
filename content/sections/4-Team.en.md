@@ -26,7 +26,7 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "?",
+    header: "You?",
     subheader: "Join Us",
     social: {
       twitter: "#",

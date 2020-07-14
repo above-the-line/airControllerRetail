@@ -12,8 +12,8 @@ portfolios: [
     extraInfo: ["Date of release: December 2020", "Price: AUD$40", "Includes: AirController Smartphone App"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/02-full.jpg",
+    imageFileName: "portfolio/03-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/03-full.jpg",
     header: "Small Sensor",
     subheader: "Environmental sensing and control",
     content: "AC running on hard power? No problem! This guy gets you connected to the AirController App which allows you to set your preferred temperature range, schedule of use and savings goals. Set it and forget it, our app will optimise for comfort and cost savings.",

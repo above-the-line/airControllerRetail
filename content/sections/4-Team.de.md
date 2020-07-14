@@ -1,13 +1,13 @@
 ---
-anchor: "チーム"
-header: "チーム"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
-content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+anchor: "Team"
+header: "Die Mannschaft"
+subheader: "Zwei starke und zählende..."
+content: "Wir bauen ein Team auf. Bitte setzen Sie sich mit uns in Verbindung, wenn Sie sich uns anschließen möchten."
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Adam Mlocek",
+    subheader: "Chefwissenschaftler und CTO",
     social: {
       twitter: "#",
       facebook: "#",
@@ -16,8 +16,8 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Avi Michael",
+    subheader: "Geschäfts- und Front-End-Entwicklung",
     social: {
       twitter: "#",
       facebook: "#",
@@ -26,8 +26,8 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "Sie?",
+    subheader: "Begleiten Sie uns",
     social: {
       twitter: "#",
       facebook: "#",

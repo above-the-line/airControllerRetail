@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
-menuText: "メニュー "
+brand: "AirController"
+menuText: "Menu"
 ---

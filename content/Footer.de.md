@@ -1,12 +1,12 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "© AirController 2020 (ABN: 91403780104)"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "プライバシー"
+privacyText: "Privacy Policy"
 privacyHref: "#!"
-termsText: "利用規約"
+termsText: "Terms of Use"
 termsHref: "#!"
 ---

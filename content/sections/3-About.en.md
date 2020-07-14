@@ -14,13 +14,13 @@ timeline: [
     imageFileName: "about/2.jpg",
     header: "Set your comfort zone",
     subheader: "then sit back and save",
-    content: "Set the temperature range that is acceptable and how much money you want to save.Tell the app inventore harum ex magni, dicta impedit."
+    content: "Set the temperature range that is acceptable and how much money you want to save. And that's it! You can check in with the app as much or as little as you like, it will tell you if there's a problem"
   },
   {
     imageFileName: "about/3.jpg",
     header: "Optimise!",
     subheader: "Energy expensive? Cold outside?",
-    content: "Ambient data, market prices, your location, cloud coverage (if linked to a battery and solar generation), all these metrics and more assessed against your goals for comfort and savings."
+    content: "Ambient data, market prices, your location, sunlight and cloud coverage (if linked to a battery and solar generation), all these metrics are assessed against your goals for comfort and savings."
   },
   {
     imageFileName: "about/4.jpg",
